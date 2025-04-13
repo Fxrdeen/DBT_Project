@@ -1,0 +1,20 @@
+{
+    "streaming_performance": {
+        "avg_time": 7.075607,
+        "total_time": 7.075607,
+        "batch_count": 1
+    },
+    "batch_performance": {
+        "total_time": 50.230357
+    },
+    "indicator_accuracy": {
+        "avg_sma_diff": 0.04596452535387923,
+        "avg_rsi_diff": 10.235508722092815,
+        "avg_macd_diff": 0.023610496147643788
+    },
+    "signal_agreement": {
+        "buy_agreement": 18.843358901897457,
+        "sell_agreement": 19.832458619297537,
+        "hold_agreement": 100.0
+    }
+}

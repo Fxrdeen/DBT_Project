@@ -1,0 +1,16 @@
+/bin
+/lib
+/lib64
+/libexec
+/sbin
+/share
+/src
+/checkpoint
+/__pycache__
+/include
+/local
+/run
+/var
+/tmp
+/var/lib
+/var/log
