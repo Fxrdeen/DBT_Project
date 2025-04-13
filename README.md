@@ -204,8 +204,4 @@ brew services stop postgresql@14
 
 ## Author
 
-[Your Name]
-
-## License
-
-[Specify License]
+Fardeen Shaikh
